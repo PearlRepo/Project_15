@@ -19,7 +19,7 @@ function preload(){
   endImg =loadImage("gameOver.png");
   collectSound= loadSound("collect.mp3");
   gameOverSound= loadSound("fail.mp3");
-  ReplayButton= loadImage("Replay.png");
+  ReplayButton= loadImage("replay.png");
 }
 
 function setup(){
